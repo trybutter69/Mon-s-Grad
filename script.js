@@ -35,7 +35,7 @@
     document.querySelector('[data-day-before]').hidden = true;
     document.querySelector('[data-day-after]').hidden = false;
     document.querySelector('[data-day-description]').textContent =
-      'Today. The newest chapter of her story. The girl in the very first picture made it all the way here — and she is only getting started.';
+      'Today. The newest chapter of your story. You made it all the way here from the very first picture — and you are only getting started.';
     document.querySelector('.day-side-note').textContent = '✧ A moment worth remembering forever';
   };
   dayPhoto.addEventListener('load', showGraduationDay);
