@@ -7,7 +7,7 @@
   text('[data-name]', content.name);
   text('[data-year]', content.graduationYear);
   Object.entries(content.chapters || {}).forEach(([key, value]) => text(`[data-copy="${key}"]`, value));
-  document.title = `${content.name} · Class of ${content.graduationYear} · A story worth celebrating`;
+  document.title = `${content.name} · Class of ${content.graduationYear} · A girl worth celebrating`;
   document.querySelectorAll('img[data-photo]').forEach(img => {
     const path = content.photos?.[img.dataset.photo];
     if (path) img.src = path;
