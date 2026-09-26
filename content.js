@@ -19,9 +19,9 @@ window.GIFT_CONTENT = {
     graduation: "This is more than a cap, a gown, or a certificate. It is every time you showed up, tried again, and believed there was something worth working toward. You earned this moment. Be so proud of it."
   },
   letter: [
-    "Seeing you reach this day is such a beautiful thing. I hope that, when you look back at these pictures, you see not only how much you've grown, but how much you've always had to be proud of.",
-    "You worked for this chapter, and you deserve every bit of the happiness that comes with it. I'm grateful I got to witness even a little part of your journey — and excited for all the wonderful things that come next.",
-    "Congratulations, graduate. Today is yours."
+    "Seeing you reach this day is such a beautiful thing. I hope that when you look back at these pictures you see not only how much you've grown, but how much you've always had to be proud of.",
+    "You worked so so so hard for this and went through so much, thats why you deserve every bit of the happiness that comes with it. Words cant describe how proud i'm and how i'm grateful I got to witness it all — i hope u start seeing yourself as amazing as i do because there is nothing else like u.",
+    "Congratulations, to my graduate. Today is yours."
   ],
-  signOff: "Made with so much pride, just for you"
+  signOff: "Made with so much pride n love, just for you"
 };
