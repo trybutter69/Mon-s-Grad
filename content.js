@@ -1,6 +1,6 @@
 /* Edit this file to personalize the gift. Upload real photos into assets/. */
 window.GIFT_CONTENT = {
-  name: "Her Name", // CHANGE ME
+  name: "Mon", // Omnia — called Mon; use Mon throughout the gift
   graduationYear: "2026",
   graduationTitle: "The most beautiful beginning",
   photos: {
