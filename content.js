@@ -16,7 +16,7 @@ window.GIFT_CONTENT = {
     baby: "Before the degree, before the cap and gown, there was the cutest little girl ever, with a whole life of amazing things(and people :) )waiting for her",
     school: "A Saudi little girl with so much electric energy hit \"City Language School\" like a storm, made so many friendships, and played so many volleyball matches (without me 😔). She was the cutest, but gave no boy a chance, because she knew no one deserves an angel like her :)",
     university: "The years that made you you and almost broke you, you went through so many changes and hardships through these time so many projects and choking deadlines but in the end came out the most beautiful Lilly the uni has ever witnessed",
-    graduation: "This is more than a cap, a gown, or a certificate. It is every time you showed up, tried again, and believed there was something worth working toward. You earned this moment. Be so proud of it."
+    graduation: "A cap, a gown, a certificate — even the flowers and lilies aren’t enough for your dedication and hard work, Mon. I’m so, so, so proud of you. You deserve the world, and you shall have it. Great things are destined for you, especially for someone who looks this GOOD on her graduation."
   },
   letter: [
     "Seeing you reach this day is such a beautiful thing. I hope that when you look back at these pictures you see not only how much you've grown, but how much you've always had to be proud of.",
