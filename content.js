@@ -13,7 +13,7 @@ window.GIFT_CONTENT = {
     graduationDay: "assets/graduation-day.jpg"
   },
   chapters: {
-    baby: "Before the degree, before the cap and gown, there was this little girl — with a whole life of wonderful things still waiting for her.",
+    baby: "Before the degree, before the cap and gown, there was the cutest little girl ever, with a whole life of amazing things(and people :) )waiting for her",
     school: "Little by little, she found her voice, her curiosity, and her own way of seeing the world. Every ordinary day was quietly becoming part of an extraordinary story.",
     university: "There were early mornings, late nights, impossible weeks, small victories, and people who made the journey unforgettable. Through it all, she kept going — and became even more herself.",
     graduation: "This is more than a cap, a gown, or a certificate. It is every time you showed up, tried again, and believed there was something worth working toward. You earned this moment. Be so proud of it."
