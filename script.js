@@ -34,9 +34,7 @@
     dayPlaceholder.hidden = true;
     document.querySelector('[data-day-before]').hidden = true;
     document.querySelector('[data-day-after]').hidden = false;
-    document.querySelector('[data-day-description]').textContent =
-      'Today. The newest chapter of your story. You made it all the way here from the very first picture — and you are only getting started.';
-    document.querySelector('.day-side-note').textContent = '✧ A moment worth remembering forever';
+    // Keep Chapter 5's bonus-photo message unchanged when the couple photo loads.
   };
   dayPhoto.addEventListener('load', showGraduationDay);
   dayPhoto.addEventListener('error', () => { dayPhoto.removeAttribute('src'); });
