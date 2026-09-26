@@ -5,7 +5,7 @@ window.GIFT_CONTENT = {
   graduationTitle: "The most beautiful beginning",
   photos: {
     baby: "assets/baby photo mon.jpeg",
-    school: "assets/school-placeholder.svg",
+    school: "assets/mon-school.avif",
     universityOne: "assets/university-1-placeholder.svg",
     universityTwo: "assets/university-2-placeholder.svg",
     graduation: "assets/graduation-placeholder.svg",
