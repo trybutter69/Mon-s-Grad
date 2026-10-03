@@ -10,7 +10,7 @@ window.GIFT_CONTENT = {
     universityTwo: "assets/mon uni tired-right.jpeg",
     graduation: "assets/mon uni grad.jpeg",
     // Upload this file on graduation day. The QR code and URL stay unchanged.
-    graduationDay: "assets/graduation-day.jpg"
+    graduationDay: "assets/mon n me last pic special.jpeg"
   },
   chapters: {
     baby: "Before the degree, before the cap and gown, there was the cutest little girl ever, with a whole life of amazing things(and people :) )waiting for her",
