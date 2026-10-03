@@ -8,7 +8,7 @@ window.GIFT_CONTENT = {
     school: "assets/mon school.jpeg",
     universityOne: "assets/new mon left uni pic.jpeg",
     universityTwo: "assets/mon uni tired-right.jpeg",
-    graduation: "assets/graduation-placeholder.svg",
+    graduation: "assets/mon uni grad.jpeg",
     // Upload this file on graduation day. The QR code and URL stay unchanged.
     graduationDay: "assets/graduation-day.jpg"
   },
